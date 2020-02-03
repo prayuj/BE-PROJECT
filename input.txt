@@ -1,0 +1,489 @@
+Days
+5
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+
+Hours
+7
+Slot 1
+Slot 2
+Slot 3
+Slot 4
+Slot 5
+Slot 6
+Slot 7
+
+Rooms
+13
+CR2
+CR3
+CR4
+Lab1
+Lab2
+Lab3
+Lab4
+Lab5
+Lab6
+Lab7
+Lab8
+Lab9
+Lab10
+
+Courses
+30
+CSC301 AM 
+True
+False
+1
+2
+5
+1
+1
+CR2
+CSC302 DLDA
+True
+False
+1
+2
+4
+1
+1
+CR2
+CSC303 DM
+True
+False
+1
+2
+4
+1
+1
+CR2
+CSC304 ECCF
+True
+False
+1
+2
+4
+1
+1
+CR2
+CSC305 DS
+True
+False
+1
+2
+4
+1
+1
+CR2
+CSL301 DSL
+False
+True
+2
+2
+2
+2
+1
+Lab1
+CSL302 BEL
+False
+True
+2
+2
+2
+2
+1
+Lab2
+CSL303 DataSL
+False
+True
+2
+2
+2
+2
+1
+Lab3
+CSL304 OOPM
+False
+True
+2
+2
+2
+2
+1
+Lab4
+CSC501 MP
+True
+False
+1
+2
+4
+1
+1
+CR3
+CSC502 DBMS
+True
+False
+1
+2
+4
+1
+1
+CR3
+CSC503 CN
+True
+False
+1
+2
+4
+1
+1
+CR3
+CSC504 TCS
+True
+False
+1
+2
+4
+1
+1
+CR3
+CSC505 BCE
+True
+False
+1
+2
+2
+1
+1
+CR3
+CSDLO5013 AA
+True
+False
+1
+2
+4
+1
+1
+CR3
+CSL501 MPL
+False
+True
+2
+2
+2
+2
+1
+Lab5
+CSL502 CNL
+False
+True
+2
+2
+2
+2
+1
+Lab6
+CSL503 DBMSL
+False
+True
+2
+2
+2
+2
+1
+Lab7
+CSL504 WDL
+False
+True
+2
+2
+2
+2
+1
+Lab8
+CSL505 BCEL
+False
+True
+2
+2
+2
+2
+1
+Lab9
+CSC701 DSIP
+True
+False
+1
+2
+4
+1
+1
+CR4
+CSC702 MCC
+True
+False
+1
+2
+4
+1
+1
+CR4
+CSC703 AISC
+True
+False
+1
+2
+4
+1
+1
+CR4
+CSDL70X Dept Level Elective
+True
+False
+1
+2
+4
+1
+1
+CR4
+ILO70XX Inst Level Elective
+True
+False
+1
+2
+3
+1
+1
+CR4
+CSL701 DSIPL
+False
+True
+2
+2
+2
+2
+1
+Lab1
+CSL702 MADTL
+False
+True
+2
+2
+2
+2
+1
+Lab6
+CSL703 AISCL
+False
+True
+2
+2
+2
+2
+1
+Lab3
+CSL704 CL
+False
+True
+2
+2
+2
+2
+1
+Lab8
+CSP705 Major Project
+True
+False
+3
+3
+6
+3
+1
+Lab10
+
+Student Groups
+3
+SE COMPS
+9
+CSC301
+CSC302
+CSC303
+CSC304
+CSC305
+CSL301
+CSL302
+CSL303
+CSL304
+TE COMPS
+11
+CSC501
+CSC502
+CSC503
+CSC504
+CSC505
+CSDLO5013
+CSL501
+CSL502
+CSL503
+CSL504
+CSL505
+BE COMPS
+10
+CSC701
+CSC702
+CSC703
+CSDL70X
+ILO70XX
+CSL701
+CSL702
+CSL703
+CSL704
+CSP705
+
+Lecturers
+14
+REVATHY SUNDARARAJAN
+First Year
+2
+10
+1
+HOD
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1
+CSC301
+Deepali Kayande
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSC302
+CSL301
+Priya Kaul
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSC303
+CSC502
+Sejal Chopra
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSC304
+CSL302
+Ali Imran Mirza
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSC305
+CSL303
+Ditty K Varghese
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSC501
+CSC505
+Shainila M
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSC503
+CSC504
+Amiya Kumar Tripathy
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+3
+CSC702
+CSL304
+CSL504
+Dipti Jadhav
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+3
+CSC701
+CSL505
+CSL701
+Kalpita Wagaskar
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSC703
+CSDLO5013
+Others
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSDL70X
+ILO70XX
+Shafaque
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSL502
+CSL703
+Phiroj
+Computer
+4
+10
+2
+Asst. Professor
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSL503
+CSL702
+Sana
+Computer
+4
+10
+2
+HOD
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2
+CSL704
+CSL501

@@ -1,0 +1,103 @@
+Days
+no_of_days(d)
+	day_1
+	.
+	.
+	.
+	day_d
+Hours
+no_of_hours(h)
+	hour_slot_1
+	.
+	.
+	.
+	hour_slot_h
+Rooms
+no_of_rooms(n)
+	room_1
+	.
+	.
+	.
+	room_n
+Courses
+no_of_courses(m)
+	course_id_1 course_name_1
+		class_flag
+		batch_flag
+		no_of_hours_to_schedule_when_assigning
+		max_no_hours_per_day
+		no_hours_per_week
+		max_consecutive_hours_per_day
+		no_of_valid_rooms(r)
+		room_1
+		.
+		.
+		.
+		room_r
+	.
+	.
+	.
+	course_id_m course_name_m
+		class_flag
+		batch_flag
+		no_of_hours_to_schedule_when_assigning
+		max_no_hours_per_day
+		no_hours_per_week
+		max_consecutive_hours_day
+		no_of_valid_rooms(r)
+		room_1
+		.
+		.
+		.
+		room_r
+Student Group
+no_of_student_group(s)
+	student_group_1
+	no_of_courses(x)
+		course_1
+		.
+		.
+		.
+		course_x
+	.
+	.
+	.
+	student_group_s
+	no_of_courses(x)
+		course_1
+		.
+		.
+		.
+		course_x
+Lecturers
+no_of_lecturers(l)
+	lecturer_1
+	Department
+	max_no_hours_per_day
+		
+	max_consecutive_hours
+	rank
+	Availabilty_slots((d*h)x1)
+	no_of_courses_taught(c)
+		course_1
+		.
+		.
+		.
+		course_c
+	.
+	.
+	.
+	lecturer_l
+	Department
+	max_no_hours_per_day
+	max_no_hours_per_week
+	max_no_of_consecutive_hours
+	rank
+	Availabilty_slots((d*h)x1)
+	no_of_courses_taught(c)
+		course_1
+		.
+		.
+		.
+		course_c
+
